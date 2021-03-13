@@ -37,3 +37,14 @@ p {font-family:Sans-Serif; text-align:left; font-size: 20px}
     
 }
 
+
+
+@media (max-width: 630px){
+    .bot-text > p{
+        margin-top: 50px;
+    }
+
+
+
+
+}
