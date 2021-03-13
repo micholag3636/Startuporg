@@ -264,6 +264,17 @@ margin-top: 32px;
 
 }
 
+@media (max-width: 400px){
+    .main-title{
+        margin-left: 150px;
+    }
+
+
+
+
+}
+
+
 .main-titles{
     margin-top: 10px;
     text-align: center;
