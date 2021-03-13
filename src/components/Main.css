@@ -258,6 +258,11 @@ margin-top: 32px;
     .main-title{
         margin-left: 70px;
     }
+    .main-text{
+        margin-bottom: 100px;
+    }
+
+    
 
 
 
@@ -267,6 +272,10 @@ margin-top: 32px;
 @media (max-width: 400px){
     .main-title{
         margin-left: 150px;
+    }
+
+    .main-text{
+        margin-bottom: 100px;
     }
 
 
