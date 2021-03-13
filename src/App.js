@@ -24,6 +24,7 @@ function App() {
 
   return (
     <Router>
+      <body background="https://media.istockphoto.com/vectors/blue-sky-with-white-clouds-background-border-of-clouds-simple-cartoon-vector-id1138179296?k=6&m=1138179296&s=612x612&w=0&h=DhIzmPmdkAi-L-K17qsTHGDYtTMlQzOjIeic7wki3v4=">
    
 
 <Switch>
@@ -77,7 +78,7 @@ function App() {
 
     
    
-  
+      </body>
     </Router>
   );
 }
