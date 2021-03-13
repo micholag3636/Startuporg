@@ -3,9 +3,8 @@ import './App.css';
 import Nav from "./components/Nav.js"
 import Main from "./components/Main.js"
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
-import ProductScreen from "./components/ProductScreen.js"
-import CartScreen from "./components/CartScreen.js"
-import Store from "./components/Store.js"
+
+
 import Offices from "./components/Offices.js"
 import Warehouses from "./components/Warehouses.js"
 import Support from "./components/Support.js"
@@ -14,7 +13,9 @@ import Founders from "./components/Founders.js"
 import Company from "./components/Company.js"
 import Backdrop from "./components/Backdrop.js"
 import SideDrawer from "./components/SideDrawer.js"
+import Services from "./components/Services.js"
 import {useState} from "react"
+import contactForm from "./components/contactForm.js"
 
 
 function App() {
@@ -44,10 +45,8 @@ function App() {
       </Route>
 
 
-      <Route exact path="/product/:id" component={ProductScreen} />
-      <Route exact path="/cart" component={CartScreen} />
+      
 
-      <Route exact path="/store" component={Store} />
       <Route exact path="/offices" component={Offices} />
       
       <Route exact path="/warehouses" component={Warehouses} />
@@ -58,6 +57,8 @@ function App() {
       <Route exact path="/team" component={Team} />
       <Route exact path="/founders" component={Founders} />
       <Route exact path="/company" component={Company} />
+      <Route exact path="/services" component={Services} />
+      <Route exact path="/contactform" component={contactForm} />
 
 
       </main>
