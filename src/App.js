@@ -24,7 +24,9 @@ function App() {
   const [sideToggle, setSideToggle] = useState(false)
 
   return (
-    <Router>
+    <div className="body">
+    
+        <Router>
    
    
 
@@ -81,6 +83,7 @@ function App() {
    
       
     </Router>
+    </div>
   );
 }
 
