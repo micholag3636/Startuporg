@@ -9,7 +9,7 @@ function Productscreen(props) {
 
                
 
-            <h1 id="services-title">Amazon Web Services</h1>
+           
             <img   className="img-service" src={props.img}/>
             
           
@@ -17,6 +17,12 @@ function Productscreen(props) {
                  <div className="overlay">
         
               <p className="text">{props.text}</p>
+
+            </div>
+
+            <div className="overlayh">
+        
+              <p className="text"> <h3>{props.title}</h3></p>
 
             </div>
 

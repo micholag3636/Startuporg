@@ -9,14 +9,16 @@ function Services() {
 
             
      
-            <Productscreen  text="Amazon Web Services" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen  text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen   text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen   text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen   text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen   text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen   text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
-            <Productscreen   text="Amazon Web Services"  img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            <Productscreen title="Amazon Web Services" text="We supply amazon web services for our clients" img="https://techfest.org/2020/workshops/img/w6.jpg"/>
+            
+      
         </div>
         </div>
     )
