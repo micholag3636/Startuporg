@@ -470,12 +470,14 @@ a{
 @media (max-width: 960px){
     .nav_link{
         display: none;
+
      
     }
 
 
     .hamburger_menu{
         display: flex;
+        margin-left: 80px;
    
     }
 
